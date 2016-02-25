@@ -1,0 +1,28 @@
+name: coffeencode
+favicon: null
+layout_spectrum: 0.5026412887964398
+typography_spectrum: 0.7844393206760287
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.19557822751812637
+  lightness: 0.9040487913880497
+  saturation: 0.5313135320320725
+  rhythmicContrast: 0.8986183172091842
+purpose: []
