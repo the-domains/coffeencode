@@ -2,6 +2,7 @@ name: coffeencode
 favicon: null
 layout_spectrum: 0.5026412887964398
 typography_spectrum: 0.7844393206760287
+title: 'We like Coffee, we like to build stuff'
 cta:
   domain: null
   bucket: null
