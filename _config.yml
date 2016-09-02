@@ -19,12 +19,15 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f644889-a61b-45e0-81dc-bbce6fb50a4c.png
 name: coffeencode
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eebae800-bdc4-4c94-a92e-e0044f1f1d39.png
 title: 'We like Coffee, we like to build stuff'
 description: our AI builds stuff with us
 purpose: []
