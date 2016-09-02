@@ -1,20 +1,4 @@
-name: coffeencode
-favicon: null
-layout_spectrum: 0.5026412887964398
 typography_spectrum: 0.7844393206760287
-title: 'We like Coffee, we like to build stuff'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.9040487913880497
   saturation: 0.5313135320320725
   rhythmicContrast: 0.8986183172091842
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5026412887964398
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: coffeencode
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'We like Coffee, we like to build stuff'
+description: our AI builds stuff with us
 purpose: []
